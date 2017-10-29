@@ -1,5 +1,6 @@
-.py[co]
+*.py[co]
 dist/
+*.egg-info
 
 venv
 .venv
